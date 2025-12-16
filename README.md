@@ -1,4 +1,4 @@
-# Conway’s Game of Life (JavaScript)
+# Conway’s Game of Life 
 
 ## Introduction
 Conway’s Game of Life is a cellular automaton created by mathematician John Conway. This project is a JavaScript implementation that uses the HTML5 Canvas API to display and interact with the simulation.
